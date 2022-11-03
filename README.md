@@ -6,9 +6,10 @@ Bu repo [kodluyoruz](https:\\kodluyoruz.org) Front-End Eğitiminde oluşturuğum
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzadn aldığınız link gelecek)
 
->git clone https://github.com/huseyincembas/kodluyoruzilkrepo.git
-
-![kodluyoruzodevifoto][def]
+```bash
+git clone https://github.com/huseyincembas/kodluyoruzilkrepo.git
+```
+![odevfoto](odevfoto.png)
 
 ## Usage
 
@@ -16,8 +17,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açtınız.
 
 Linux için:
 
->cd kodluyoruzilkrepo  
+```linux
+cd kodluyoruzilkrepo  
 code .
+```
 
 ## Contributing
 
@@ -27,4 +30,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[def]: odevfoto.png
+## Link
+
+[patika.dev](www.patika.dev)
