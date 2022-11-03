@@ -8,6 +8,8 @@ Bu repo [kodluyoruz](https:\\kodluyoruz.org) Front-End Eğitiminde oluşturuğum
 
 >git clone https://github.com/huseyincembas/kodluyoruzilkrepo.git
 
+![kodluyoruzodevifoto][def]
+
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açtınız.
@@ -24,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[def]: odevfoto.png
